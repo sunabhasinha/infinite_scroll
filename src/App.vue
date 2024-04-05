@@ -21,7 +21,6 @@
 			document.body.scrollHeight - 50
 		) {
 			await fetchPosts();
-			console.log('Postsss', posts.value);
 		}
 	};
 </script>
